@@ -1,5 +1,4 @@
 # AUssistente
-AUssistente
 
 Ideia:
 
